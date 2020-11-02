@@ -1,2 +1,2 @@
 # PTA-Python
-Codes for Zhejiang University's Python Programming in PTA
+Codes for Zhejiang University's Python programming in PTA
